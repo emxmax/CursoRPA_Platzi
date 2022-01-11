@@ -1,0 +1,7 @@
+Hola como estas,
+
+estoy muy bien en caso el dia {0}
+
+y tu como vas?
+
+gracias
